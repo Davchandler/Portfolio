@@ -1,2 +1,0 @@
-# Portfolio
-Random Code Samplings
